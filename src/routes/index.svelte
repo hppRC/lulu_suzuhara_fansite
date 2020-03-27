@@ -1,14 +1,14 @@
 <script lang="ts">
-  import { onMount } from "svelte";
-  import { writable } from "svelte/store";
+  import { onMount } from 'svelte';
+  import { writable } from 'svelte/store';
 
-  import Counter from "../components/Counter.svelte";
+  import Counter from '../components/Counter.svelte';
 
   const count = writable(100);
   const test: number = 0;
 
   onMount(() => {
-    console.log("App mounted");
+    console.log('App mounted');
   });
 </script>
 
@@ -16,15 +16,15 @@
   h1,
   figure,
   p {
-    text-align: center;
     margin: 0 auto;
+    text-align: center;
   }
 
   h1 {
-    font-size: 2.8em;
-    text-transform: uppercase;
-    font-weight: 700;
     margin: 0 0 0.5em 0;
+    font-size: 2.8em;
+    font-weight: 700;
+    text-transform: uppercase;
   }
 
   figure {
@@ -60,9 +60,7 @@
 </figure>
 
 <p>
-  <strong>
-    Try editing this file (src/routes/index.svelte) to test live reloading.
-  </strong>
+  <strong>Try editing this file (src/routes/index.svelte) to test live reloading.</strong>
 </p>
 
 <p>

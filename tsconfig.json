@@ -22,5 +22,10 @@
       "~/src/*": ["src/*"]
     },
     "typeRoots": ["src/types", "node_modules/@types"]
+  },
+  "watchOptions": {
+    "watchFile": "dynamicPriorityPolling",
+    "watchDirectory": "dynamicPriorityPolling",
+    "fallbackPolling": "dynamicPriority"
   }
 }
