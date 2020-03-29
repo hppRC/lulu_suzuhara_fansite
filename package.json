@@ -57,7 +57,7 @@
     "stylelint-no-unsupported-browser-features": "4.0.0",
     "stylelint-order": "4.0.0",
     "svelte": "3.20.1",
-    "svelte-preprocess": "3.6.0",
+    "svelte-preprocess": "3.7.1",
     "typescript": "3.8.3"
   }
 }
