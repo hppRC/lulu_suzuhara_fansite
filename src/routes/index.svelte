@@ -4,7 +4,7 @@
 
   import Counter from '../components/Counter.svelte';
 
-  const count = writable(100);
+  let count = 100;
   const test: number = 0;
 
   onMount(() => {
@@ -66,5 +66,5 @@
 <p>
   <Counter />
   <Counter value={1}>Counter 1</Counter>
-  <Counter value={$count} step={3}>Counter 2</Counter>
+  <Counter value={count} step={3}>Counter 2</Counter>
 </p>
