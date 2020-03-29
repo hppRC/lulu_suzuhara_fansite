@@ -4,18 +4,13 @@
   export let segment;
 </script>
 
-<style>
+<style lang="scss">
   main {
-    position: relative;
     box-sizing: border-box;
-    max-width: 56em;
-    padding: 2em;
-    margin: 0 auto;
-    background-color: white;
+    display: flex;
+    justify-content: center;
   }
 </style>
-
-<Nav {segment} />
 
 <main>
   <slot />

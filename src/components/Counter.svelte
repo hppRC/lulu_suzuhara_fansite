@@ -1,7 +1,6 @@
 <script lang="typescript">
   export let value: number = 0;
   export let step: number = 1;
-  const test = 'test';
 </script>
 
 <div>
