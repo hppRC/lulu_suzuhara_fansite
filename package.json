@@ -29,7 +29,7 @@
     "@rollup/plugin-commonjs": "11.0.2",
     "@rollup/plugin-json": "4.0.2",
     "@rollup/plugin-node-resolve": "7.1.1",
-    "@types/compression": "^1.7.0",
+    "@types/compression": "1.7.0",
     "@types/node": "12.12.31",
     "@wessberg/rollup-plugin-ts": "1.2.21",
     "cypress": "4.2.0",
