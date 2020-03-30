@@ -7,4 +7,14 @@ Unofficial fansite for Lulu Suzuhara, who is suuuuuuuuuuuuper cute Virtual Youtu
 ## やりたいこと
 
 - お嬢の雰囲気に合わせるなら CSS アニメーションを多用してポップな感じにすると良さそう
+- react-three-fiberの可能性を見てみたくないか...?(悪魔のささやき)
 - 3D の歌ってる動画を見せたい、可愛いので
+
+## ideas
+
+御行儀が悪いですが、ideasというディレクトリにデザインカンプやアイデアメモを雑に置いていきます。
+
+
+## LICENSE
+
+画像・音声はすべて権利者に帰属し、それ以外のものはMIT Licenseとします。
