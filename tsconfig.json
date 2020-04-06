@@ -1,31 +1,32 @@
 {
-  "include": ["src/**/*"],
-  "exclude": ["node_modules/*"],
   "compilerOptions": {
-    "target": "ESNext",
-    "module": "ESNext",
-    "strict": true,
+    "target": "esnext",
+    "module": "esnext",
+    "jsx": "preserve",
+    "lib": ["dom", "es2015", "es2020"],
     "moduleResolution": "node",
-    "types": ["svelte"],
     "allowSyntheticDefaultImports": true,
 
+    "strict": true,
     "esModuleInterop": true,
-
     "isolatedModules": true,
-    "assumeChangesOnlyAffectDirectDependencies": true,
-
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
     "noImplicitReturns": true,
     "noFallthroughCasesInSwitch": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true,
+    "resolveJsonModule": true,
+    "allowJs": true,
+    "assumeChangesOnlyAffectDirectDependencies": true,
 
     "baseUrl": ".",
     "paths": {
-      "~/*": ["src/*"]
+      "~/*": ["./src/*"]
     },
     "typeRoots": ["src/types", "node_modules/@types"]
   },
-  "watchOptions": {
-    "watchFile": "dynamicPriorityPolling",
-    "watchDirectory": "dynamicPriorityPolling",
-    "fallbackPolling": "dynamicPriority"
-  }
+  "exclude": ["node_modules", "out", ".next"],
+  "include": ["src/**/*.ts", "src/**/*.tsx"]
 }

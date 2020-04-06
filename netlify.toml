@@ -1,5 +1,5 @@
 [build]
-  publish = "__sapper__/export"
+  publish = "out"
   command = "yarn export"
 
 [build.environment]
