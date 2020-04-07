@@ -9,11 +9,11 @@ interface CustomDocumentInterface {
 }
 
 class CustomDocument extends Document implements CustomDocumentInterface {
-  url = `https://next-template.hpprc.com`;
+  url = `https://lulu-suzuhara-fansite.netlify.com/`;
 
-  title = `Next Template`;
+  title = `Lulu Suzuhara Fansite`;
 
-  description = `Demo of Next.js`;
+  description = `Lulu Suzuhara Fansite`;
 
   render(): JSX.Element {
     return (
