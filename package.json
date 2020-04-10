@@ -31,8 +31,8 @@
   "devDependencies": {
     "@types/node": "13.11.0",
     "@types/react": "16.9.32",
-    "@typescript-eslint/eslint-plugin": "2.26.0",
-    "@typescript-eslint/parser": "2.26.0",
+    "@typescript-eslint/eslint-plugin": "2.27.0",
+    "@typescript-eslint/parser": "2.27.0",
     "eslint": "6.8.0",
     "eslint-config-airbnb": "18.1.0",
     "eslint-config-prettier": "6.10.1",
@@ -50,6 +50,6 @@
     "stylelint-declaration-block-no-ignored-properties": "2.3.0",
     "stylelint-no-unsupported-browser-features": "4.0.0",
     "stylelint-order": "4.0.0",
-    "typescript": "3.9.0-dev.20200406"
+    "typescript": "3.9.0-dev.20200408"
   }
 }

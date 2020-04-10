@@ -1,5 +1,5 @@
 {
-  "extends": ["config:base", "schedule:weekly"],
+  "extends": ["config:base"],
   "packageRules": [
     {
       "updateTypes": ["minor", "patch", "pin", "digest"],
