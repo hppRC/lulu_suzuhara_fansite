@@ -22,7 +22,7 @@
     "next": "9.3.4",
     "next-compose-plugins": "2.2.0",
     "next-optimized-images": "2.5.7",
-    "nextjs-sitemap-generator": "0.5.0",
+    "nextjs-sitemap-generator": "0.5.2",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "sanitize.css": "11.0.0",
