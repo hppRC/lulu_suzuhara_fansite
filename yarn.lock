@@ -6261,10 +6261,10 @@ next@9.3.6:
     webpack "4.43.0"
     webpack-sources "1.4.3"
 
-nextjs-sitemap-generator@0.5.0:
-  version "0.5.0"
-  resolved "https://registry.yarnpkg.com/nextjs-sitemap-generator/-/nextjs-sitemap-generator-0.5.0.tgz#0a5b847b2354f4df8967bfedb0a41b9cc6233e0e"
-  integrity sha512-mURzAVQTA1nQfFyQl+r2To2/paH0CLPkFO2gedRgZv7oaty6Dw66WVlb3yFP4KiwSyczzeotecdm+sWA2Ejbmw==
+nextjs-sitemap-generator@1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/nextjs-sitemap-generator/-/nextjs-sitemap-generator-1.0.0.tgz#88227fea24a055f0d9031bfe4ce303bf537b24b1"
+  integrity sha512-4M5nC2FA1Mf1sDDPQ+a1OJB5iFXjRUuhfQ+V9wVEl8ydzV2jQU6j0lABy+4cHm6KPmQr7ikq3JwOxusbB9nK1w==
   dependencies:
     date-fns "^2.9.0"
 
