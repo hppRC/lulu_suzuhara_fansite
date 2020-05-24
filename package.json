@@ -9,8 +9,8 @@
     "start": "next start",
     "export": "next build && next export",
     "clean": "rm -rf out .next",
-    "lint": "eslint --ext .js,.jsx,.ts,.tsx --ignore-path .gitignore .",
-    "fix": "eslint --ext .js,.jsx,.ts,.tsx --ignore-path .gitignore . --fix"
+    "lint": "eslint --ext .js,.jsx,.ts,.tsx --ignore-path .eslintignore .",
+    "fix": "eslint --ext .js,.jsx,.ts,.tsx --ignore-path .eslintignore . --fix"
   },
   "dependencies": {
     "@emotion/core": "10.0.28",
