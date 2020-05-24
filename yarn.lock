@@ -6261,10 +6261,10 @@ next@9.3.6:
     webpack "4.43.0"
     webpack-sources "1.4.3"
 
-nextjs-sitemap-generator@0.5.0:
-  version "0.5.0"
-  resolved "https://registry.yarnpkg.com/nextjs-sitemap-generator/-/nextjs-sitemap-generator-0.5.0.tgz#0a5b847b2354f4df8967bfedb0a41b9cc6233e0e"
-  integrity sha512-mURzAVQTA1nQfFyQl+r2To2/paH0CLPkFO2gedRgZv7oaty6Dw66WVlb3yFP4KiwSyczzeotecdm+sWA2Ejbmw==
+nextjs-sitemap-generator@1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/nextjs-sitemap-generator/-/nextjs-sitemap-generator-1.0.0.tgz#88227fea24a055f0d9031bfe4ce303bf537b24b1"
+  integrity sha512-4M5nC2FA1Mf1sDDPQ+a1OJB5iFXjRUuhfQ+V9wVEl8ydzV2jQU6j0lABy+4cHm6KPmQr7ikq3JwOxusbB9nK1w==
   dependencies:
     date-fns "^2.9.0"
 
@@ -8116,10 +8116,10 @@ safe-regex@^1.1.0:
   resolved "https://registry.yarnpkg.com/safer-buffer/-/safer-buffer-2.1.2.tgz#44fa161b0187b9549dd84bb91802f9bd8385cd6a"
   integrity sha512-YZo3K82SD7Riyi0E1EQPojLz7kpepnSQI9IyPbHHg1XXXevb5dJI7tpyN2ADxGcQbHG7vcyRHk0cbwqcQriUtg==
 
-sanitize.css@11.0.0:
-  version "11.0.0"
-  resolved "https://registry.yarnpkg.com/sanitize.css/-/sanitize.css-11.0.0.tgz#29bb394c0543616f31cd8c58fcba8323a60e2ef6"
-  integrity sha512-Ox0X2lk0kOGeODJgT9S9HFv0j5Cz89ir9ILylj62/vejHPdMmahmetfocoQwyiAnseeXyDa+KIbO6ZQJe5n2Lg==
+sanitize.css@11.0.1:
+  version "11.0.1"
+  resolved "https://registry.yarnpkg.com/sanitize.css/-/sanitize.css-11.0.1.tgz#e275e5e81a671adc34a8d36efd4182df0d5d4b93"
+  integrity sha512-Q762QXJGHIyFLayll6zUueGKslmGxNpbEDpSB/sdaZ9Xgz+v6AYlVc5P49sorc9cPR9y47npHBfXswGo1I32tg==
 
 sass-loader@8.0.2:
   version "8.0.2"
