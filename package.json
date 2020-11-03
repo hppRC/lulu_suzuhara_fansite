@@ -15,7 +15,7 @@
   "dependencies": {
     "@emotion/core": "10.0.28",
     "@emotion/styled": "10.0.27",
-    "imagemin-mozjpeg": "8.0.0",
+    "imagemin-mozjpeg": "9.0.0",
     "imagemin-optipng": "7.1.0",
     "imagemin-svgo": "7.1.0",
     "lqip-loader": "2.2.0",
