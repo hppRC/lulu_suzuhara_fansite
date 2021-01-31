@@ -13,7 +13,7 @@
     "fix": "eslint --ext .js,.jsx,.ts,.tsx --ignore-path .eslintignore . --fix"
   },
   "dependencies": {
-    "@emotion/core": "10.0.28",
+    "@emotion/core": "10.1.1",
     "@emotion/styled": "10.0.27",
     "imagemin-mozjpeg": "8.0.0",
     "imagemin-optipng": "7.1.0",
