@@ -23,8 +23,8 @@
     "next-compose-plugins": "2.2.0",
     "next-optimized-images": "2.6.0",
     "nextjs-sitemap-generator": "1.0.0",
-    "react": "16.13.1",
-    "react-dom": "16.13.1",
+    "react": "16.14.0",
+    "react-dom": "16.14.0",
     "sanitize.css": "11.0.1",
     "webp-loader": "0.6.0"
   },
